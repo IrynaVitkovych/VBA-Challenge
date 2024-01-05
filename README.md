@@ -7,3 +7,4 @@ Module 2 Assigntment to Analyze Multiple Year Stock Data (2018, 2019, 2020) by u
 	5	The Greatest % increase among all data
 	6	The Greatest % decrease among all data
 	7	The Greatest total volume among all data
+The VBA script can run on all sheets in the file.
